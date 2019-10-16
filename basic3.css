@@ -12,8 +12,19 @@ h1
   text-align : center;
 }
 
+h2
+{
+ color: lightblue;
+ text-align: center;
+ font-size: 40pt;
+}
 .contain
 {
   color : red;
   font-size : 20pt;
+}
+p
+{
+ font-size:20pt;
+ color: red;
 }

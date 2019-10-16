@@ -2,23 +2,24 @@ body
 {
    font-family: "Times New Roman", sans-serif, Century, "Arial Narrow";
    text-align: justify;
-   background-image: url("咏春.png");
+   background-image: url("shaolinsi.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center;
+   background-size: cover;
 
 }
 
 h1
 {
-  color: gold;
+  color: red;
   font-size : 50pt;
   text-align : center;
 }
 
 h2
 {
-  color :blue;
+  color :gold;
   font-size : 40pt;
 
   
@@ -29,9 +30,7 @@ p
 
 {
  font-size: 20pt;
- color: red;
+ color: yellow;
  
 
 }
-
-
