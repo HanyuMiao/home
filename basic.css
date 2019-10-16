@@ -1,0 +1,52 @@
+body
+{
+   font-family: "Times New Roman", sans-serif, Century, "Arial Narrow";
+   text-align: justify;
+   background-image: url("wushu.jpg");
+   background-attachment: fixed;
+}
+h1
+{
+  color : Gold;
+  text-align : center;
+  font-size : 50pt;
+  
+}
+
+
+h2
+{
+  color : blue;
+  font-size :40pt;
+  
+}
+
+
+h3
+{
+  color : green;
+  font-size :40pt;
+  
+}
+
+h4
+{
+ color: Blue;
+ font-size: 40pt;
+}
+p
+{
+  color  : red;
+  font-size: 20pt;
+}
+.history
+{
+  color  :gray ;
+  text-align : center;
+  font-size : 20pt;
+}
+.Influence
+{
+  color : Gray;
+  text-align:left;
+}
