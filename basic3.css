@@ -20,11 +20,19 @@ h2
 }
 .contain
 {
-  color : red;
+  color : black;
   font-size : 20pt;
 }
 p
 {
  font-size:20pt;
- color: red;
+ color: black;
+}
+
+img
+{
+   display: block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 40%;
 }
